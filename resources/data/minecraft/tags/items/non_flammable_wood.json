@@ -1,0 +1,12 @@
+{
+  "values": [
+    "logfences:crimson_stem_fence",
+    "logfences:warped_stem_fence",
+    "logfences:stripped_crimson_stem_fence",
+    "logfences:stripped_warped_stem_fence",
+    "logfences:crimson_stem_fence_gate",
+    "logfences:warped_stem_fence_gate",
+    "logfences:stripped_crimson_stem_fence_gate",
+    "logfences:stripped_warped_stem_fence_gate"
+  ]
+}
